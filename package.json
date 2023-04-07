@@ -1,0 +1,11 @@
+{
+  "name": "generator-fffastify",
+  "version": "0.0.0",
+  "description": "An opinionated generator for Fastify applications.",
+  "author": "Martin C. Richards",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  }
+}
